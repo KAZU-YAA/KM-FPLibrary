@@ -1,6 +1,15 @@
 package net.olkazu.kmfpl;
 
 import net.olkazu.kmfpl.transformer;
+import net.olkazu.kmfpl.transformer.BaseTransformer;
+import net.olkazu.kmfpl.transformer.FabricLoaderTransformer;
+import net.olkazu.kmfpl.transformer.LibraryTransformer;
+import net.olkazu.kmfpl.transformer.RandomPatchesTransformer;
+import net.olkazu.kmfpl.transformer.SQLTransformer;
+import net.olkazu.kmfpl.transformer.SodiumLikeModTransformer;
+import net.olkazu.kmfpl.transformer.SystemInfoTransformer;
+import net.olkazu.kmfpl.transformer.TTSTransformer;
+
 import net.olkazu.kmfpl.transformer.oshi.CentralProcessor;
 import net.olkazu.kmfpl.transformer.oshi.ProcessorIdentifierTransformer;
 
