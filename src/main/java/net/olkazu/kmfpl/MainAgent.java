@@ -1,6 +1,5 @@
 package net.olkazu.kmfpl;
 
-import net.olkazu.kmfpl.transformer;
 import net.olkazu.kmfpl.transformer.BaseTransformer;
 import net.olkazu.kmfpl.transformer.FabricLoaderTransformer;
 import net.olkazu.kmfpl.transformer.LibraryTransformer;
